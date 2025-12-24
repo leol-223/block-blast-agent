@@ -4,7 +4,7 @@ An autonomous AI agent which can achieve superhuman scores.
 ![Python](https://img.shields.io/badge/built%20with-Python-blue)
 
 <div>
-<img src="highscore.png" width="400" alt="High Score">
+<img src="highscore.png" height="500" alt="High Score">
 </div>
   
 🏆 Current High Score: 29,000,000+
