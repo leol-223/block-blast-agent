@@ -17,7 +17,7 @@ This script plays the popular mobile game Block Blast entirely on its own, throu
 * **Self-Play Optimization:** Using data from playing the game, I was able to artificially reproduce Block Blast. Then, I trained a network based on self-play in this simulated environment, to learn which positions are good or bad.
 * **Precision Input Control:** The script controls the mouse to simulate dragging tiles in the game.
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Language:** Python 3.13
 * **Neural Network:** Tensorflow
 * **Computer Vision:** OpenCV, Pillow
